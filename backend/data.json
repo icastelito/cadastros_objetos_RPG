@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Item 1",
+        "description": "This is item 007",
+        "rarity": "uncommon",
+        "type": "weapon",
+        "power_category": 1
+    },
+    {
+        "id": 2,
+        "name": "Item 2",
+        "description": "This is item 2",
+        "rarity": "uncommon",
+        "type": "weapon",
+        "power_category": 2
+    },
+    {
+        "id": 3,
+        "name": "Item 3",
+        "description": "This is item 3",
+        "rarity": "rare",
+        "type": "weapon",
+        "power_category": 3
+    }
+]
